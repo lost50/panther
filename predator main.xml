@@ -1,0 +1,20 @@
+<dir>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/lost50/panther/master/lost%20movies.xml</link>
+</dir>
+
+<dir>
+   <title>Tv</title>
+   <link>https://raw.githubusercontent.com/lost50/panther/master/lost%20tv.xml</link>
+</dir>
+
+<dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
+
+</xml><plugin>
+<name>settings</name>
+<link>plugin://plugin.video.predator/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
