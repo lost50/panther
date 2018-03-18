@@ -1,0 +1,97 @@
+<item>
+	<title>[COLORgreen]********[COLORorange]Section Still In Testing[COLORgreen]********[/COLOR]</title>
+</item>
+
+<item>
+	<title>[COLORorange]Please Give The Links Time To Load[/COLOR]</title>
+</item>
+
+<plugin>
+	<title>[COLORorange]SKY [COLORsnow]Main Event[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://liveonlinetv247.info/embed/skysports1.php</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]C[COLORsnow]ricket[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info:443/embed/livecricket.php</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]L[COLORsnow]ive Football[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info:443/embed/livefootball.php</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]SKY[COLORsnow] Sports Premier League[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info:443/embed/skysportspremierleague.php</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]SKY[COLORsnow] Sports Golf[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info:443/embed/skysportsgolf.php</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]BT[COLORsnow] Sports 1[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info:443/embed/btsport1.php</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]BT[COLORsnow] Sports 1[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]BT[COLORsnow] Sports 2[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info:443/embed/btsport2.php</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]BT[COLORsnow] Sports 3[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info:443/embed/btsport3.php</sublink>
+	</link>
+	<referer></referer>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+</plugin>

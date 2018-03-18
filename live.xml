@@ -1,0 +1,41 @@
+<dir>
+    <title>[COLORgreenyellow]Tv Channels[/COLOR]</title>
+    <Airtable>tv_channels</Airtable>
+	<thumbnail>http://</thumbnail>
+	<fanart>https://</fanart>
+</dir>
+ 
+<dir>
+    <title>[COLORgreenyellow]Sports Channels[/COLOR]</title>
+    <Airtable>sports_channels</Airtable>
+	<thumbnail>http://</thumbnail>
+	<fanart>https://</fanart>
+</dir>
+ 
+<dir>
+    <title>[COLORgreenyellow]M3U Lists[/COLOR]</title>
+    <Airtable>m3u_lists</Airtable>
+	<thumbnail>http://</thumbnail>
+	<fanart>https://</fanart>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]UK Channels[/COLOR](testing)</title>
+    <link>file://goose/tv/uk.xml</link>
+	<thumbnail>http://</thumbnail>
+	<fanart>https://</fanart>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]UK/USA Channels[/COLOR](testing)</title>
+    <link>file://goose/tv/entertainmenttv2.xml</link>
+	<thumbnail>http://</thumbnail>
+    <fanart>https://</fanart>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]Sports[/COLOR](testing)</title>
+    <link>file://goose/tv/sports.xml</link>
+	<thumbnail>https://</thumbnail>
+    <fanart>https://</fanart>
+</dir>
